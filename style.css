@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f7f4;
+  color: #333;
+  text-align: center;
+  padding: 40px;
+}
+
+h1 {
+  color: #7a5c61;
+}
+
+p {
+  font-size: 18px;
+}
+
+nav {
+  margin-top: 20px;
+}
+
+a {
+  color: #7a5c61;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
